@@ -1,8 +1,7 @@
 # Sales Performance Analysis Dashboard (SQL Server & Power BI)
 
 ## Overview
-This project analyses sales performance data using SQL Server and Power BI.  
-The objective is to evaluate revenue trends, product performance, customer contribution, and regional sales distribution to support data-driven business decisions.
+This project analyses sales performance data using SQL Server and Power BI. The objective is to evaluate revenue trends, product performance, customer contribution, and regional sales distribution to support data-driven business decisions.
 
 ---
 
